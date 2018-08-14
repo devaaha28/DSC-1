@@ -1,2 +1,2 @@
 # DSC-1
-belajar github
+belajar githu
